@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dealer</string>
+    <string name="default_notification_channel_id" />
+    <string name="fcm_message" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+    <string-array name="vhehicle_type">
+        <item>Select Your Vehicle</item>
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Micro-Bus</item>
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>CNG</item>
+        <item>SHIP</item>
+        <item>TRACTOR</item>
+        <item>OTHER</item>
+    </string-array>
+
+
+</resources>

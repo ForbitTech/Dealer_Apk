@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "787992176028",
+    "firebase_url": "https://st-dealers-11601-default-rtdb.firebaseio.com",
+    "project_id": "st-dealers-11601",
+    "storage_bucket": "st-dealers-11601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787992176028:android:f0befe5207fb028050d459",
+        "android_client_info": {
+          "package_name": "com.forbitbd.Dealer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787992176028-fgg3m310erdr1k3veu5bf8ngukhov4e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbpsh40bcYNWLGrhzEE-WfZS_lmbhaiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787992176028-fgg3m310erdr1k3veu5bf8ngukhov4e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787992176028:android:fa1ffed8124a4e2b50d459",
+        "android_client_info": {
+          "package_name": "com.forbitbd.dealer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787992176028-5rdn8u4d5niqp5oepr08885snppjfoog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forbitbd.dealer",
+            "certificate_hash": "bdd6e30de4b3e070a34e81faa1ae23ac1077882d"
+          }
+        },
+        {
+          "client_id": "787992176028-fgg3m310erdr1k3veu5bf8ngukhov4e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbpsh40bcYNWLGrhzEE-WfZS_lmbhaiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787992176028-fgg3m310erdr1k3veu5bf8ngukhov4e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
